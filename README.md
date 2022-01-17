@@ -1,6 +1,4 @@
 # Detection-of-Offensive-language
-# Detection-of-HateOffenseAbuse-In-SocialMedia-NLP-Python
-
 
 For code:
 This is a readme for the main classifier code named cyberbullying.py
